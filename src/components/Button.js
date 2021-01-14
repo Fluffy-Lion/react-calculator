@@ -1,7 +1,7 @@
 import React from 'react'
 import './Button.css'
-const isOperator = (val) => {
-    return  val === "." || val === "=" || val == null
+const isOperator = (value) => {
+    return  value === "." || value === "=" || value == null
 }
 
 const Button = (props) => {

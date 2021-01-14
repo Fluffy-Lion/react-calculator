@@ -1,0 +1,6 @@
+.clearButton {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    color: lime;
+}
