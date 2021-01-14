@@ -1,3 +1,8 @@
+//ATTENTION 
+// DO NOT FORGET, NPM INSTALL FOR NODE MODULES
+  //     ༼ つ ◕_◕ ༽つ
+  //   ༼ つ ◕_◕ ༽つ
+  // ༼ つ ◕_◕ ༽つ
 import React, { Component } from 'react'
 import './App.css';
 import Button from './components/Button'
