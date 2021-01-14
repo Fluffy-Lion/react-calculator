@@ -1,7 +1,7 @@
 import React from 'react'
 import './Button.css'
 const isOperator = (value) => {
-    return  value === "" || value === "" || value == null
+    return  !isNaN(value) || value === "." || value == "="
 }
 
 const Button = (props) => {
