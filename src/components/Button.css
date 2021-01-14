@@ -1,4 +1,6 @@
 .operator {
     background-color: orange;
+    height: 4em;
+    width: 4em;
     color: white;
 }
